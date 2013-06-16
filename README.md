@@ -1,4 +1,5 @@
-AP-latex-thesis-template
+AP LaTeX Thesis Template
 ========================
 
-AP-latex-thesis-template
+LaTeX thesis template for AP University College Antwerpen (AP Hogeschool Antwerpen).
+
