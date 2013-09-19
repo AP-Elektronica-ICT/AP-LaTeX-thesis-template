@@ -69,6 +69,30 @@
 %\usepackage[silent]{sty/TODO}  			%TODO package 
 \usepackage{sty/TODO}  			%TODO package
 
+
+\usepackage{eso-pic}
+\newcommand\BackgroundPic{%
+\put(0,0){%
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+% \includegraphics[width=\paperwidth,height=\paperheight]{figures/titelpagina_ap_lowres.jpg}%
+\includegraphics[width=\paperwidth,height=\paperheight]{figures/titelpagina_ap_mediumres.jpg}%
+\vfill
+}}\hfill
+}
+
+\newcommand\BackgroundPicAP{%
+\put(220,-372){%
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=0.44\paperwidth,height=0.075\paperheight,keepaspectratio]{figures/AP.png}
+\vfill
+}}
+\hfill
+}
+
 %*************************************************************************************
 %* Plaats eventuele extra toegevoegde packages hier (na toestemming van uw promotor) *
 %*************************************************************************************
