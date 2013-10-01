@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 6.964999918,
-  "full_display_name": "AP LaTeX Thesis Template #2",
-  "id": "2013-10-01_22-29-24",
-  "number": 2,
-  "result": "FAILURE",
+  "duration": 7.011000071,
+  "full_display_name": "AP LaTeX Thesis Template #3",
+  "id": "2013-10-01_22-30-58",
+  "number": 3,
+  "result": "SUCCESS",
   "status_message": "?",
-  "time": "2013-10-01 22:29:24 +0200",
-  "url": "job/AP%20LaTeX%20Thesis%20Template/2/"
+  "time": "2013-10-01 22:30:58 +0200",
+  "url": "job/AP%20LaTeX%20Thesis%20Template/3/"
 }
