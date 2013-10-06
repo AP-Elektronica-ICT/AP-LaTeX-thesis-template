@@ -8,4 +8,4 @@ NaamVoornaam_scriptie_2013.pdf : NaamVoornaam_scriptie_2013.tex
 	$(TEX) NaamVoornaam_scriptie_2013.tex
 	
 make clean:
-	rm *.pdf *.aux *.log *.nav *.out *.snm *.synctex.gz *.toc *.fdb_latexmk *.brf *.blg *.bbl *.lof *.TODO
+	rm *.pdf *.aux *.log *.nav *.out *.snm *.synctex.gz *.toc *.fdb_latexmk *.brf *.blg *.bbl *.lof *.TODO *.backup
