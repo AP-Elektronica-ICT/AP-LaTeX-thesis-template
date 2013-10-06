@@ -6,7 +6,7 @@ AcceleroDice dice;
 
 void setup(){
   Serial.begin(9600);
-  accelero.begin(13, 12, 11, 10, A0, A1, A2);
+  accelero.begin();
   accelero.setARefVoltage(3.3); //AREF voltage = 3.3V
   accelero.setSensitivity(LOW); //Sensitivity = +/-6G
   accelero.calibrate();
